@@ -1,6 +1,6 @@
 # Vocal-Sounz
-A website Where podcasters can upload their podcasts and poeple can listen to them.
- 
- Owned By Mazharul Haque
+An intriguing place to share your thoughts, and learn from the experiences of the many. You save on your life and gather wisdom that is unherad of.
+Happy Gathering!
 
- Other Members- Tabish Maaz.
+Project Administrator-
+             Mazhar Al-Haque
