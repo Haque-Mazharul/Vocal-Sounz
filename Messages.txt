@@ -1,0 +1,2 @@
+Day 1# Idea Brainstorming. ✔
+Day 2# Install Angular and place it in github. Resume the rest.
